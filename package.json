@@ -2,7 +2,7 @@
     "name": "vscode-sql-template-literal",
     "displayName": "vscode-sql-template-literal",
     "description": "Syntax highlighting for sql in template literals",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "forbeslindesay",
     "license": "MIT",
     "repository": {

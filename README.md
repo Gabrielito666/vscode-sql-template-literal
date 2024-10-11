@@ -4,6 +4,9 @@ Syntax highlighting for code like:
 
 ```js
 const query = sql`SELECT * FROM users`;
+
+//Or with comments so that javascript doesn't crash
+const query2 = /*sql*/`SELECT * FROM users`;
 ```
 
 ## Publishing

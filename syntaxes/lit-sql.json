@@ -5,7 +5,7 @@
     {
       "name": "taggedTemplates",
       "contentName": "meta.embedded.block.sql",
-      "begin": "sql((`))",
+      "begin": "(sql|\\/\\*sql\\*\\/)?`",
       "beginCaptures": {
         "1": {
           "name": "entity.name.function.tagged-template.js"
